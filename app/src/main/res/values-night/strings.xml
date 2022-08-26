@@ -2,4 +2,5 @@
 <resources>
     <string name="logo">logo</string>
     <string name="alreadyAccount">Já tem conta?</string>
+    <string name="txtLinkSignInPhone">Entre com seu telefone</string>
 </resources>

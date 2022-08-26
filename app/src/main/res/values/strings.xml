@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">WhatsUp</string>
-    <string name="btn_text">Registre-se</string>
+    <string name="txtPassword">Senha</string>
+    <string name="btn_text">Continue</string>
+    <string name="btn_text_signIn">Entrar</string>
     <string name="logo">logo</string>
     <string name="alreadyAccount">Já possui uma conta?</string>
+    <string name="notAlreadyAccount">Inscreva-se?</string>
+    <string name="txtLinkSignInPhone">Entre com seu telefone</string>
 </resources>
